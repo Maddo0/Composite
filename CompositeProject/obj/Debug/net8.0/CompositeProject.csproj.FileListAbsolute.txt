@@ -1,0 +1,14 @@
+C:\Users\madel\Desktop\School\Jaar 3\composite\CompositeProject\CompositeProject\bin\Debug\net8.0\CompositeProject.exe
+C:\Users\madel\Desktop\School\Jaar 3\composite\CompositeProject\CompositeProject\bin\Debug\net8.0\CompositeProject.deps.json
+C:\Users\madel\Desktop\School\Jaar 3\composite\CompositeProject\CompositeProject\bin\Debug\net8.0\CompositeProject.runtimeconfig.json
+C:\Users\madel\Desktop\School\Jaar 3\composite\CompositeProject\CompositeProject\bin\Debug\net8.0\CompositeProject.dll
+C:\Users\madel\Desktop\School\Jaar 3\composite\CompositeProject\CompositeProject\bin\Debug\net8.0\CompositeProject.pdb
+C:\Users\madel\Desktop\School\Jaar 3\composite\CompositeProject\CompositeProject\obj\Debug\net8.0\CompositeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madel\Desktop\School\Jaar 3\composite\CompositeProject\CompositeProject\obj\Debug\net8.0\CompositeProject.AssemblyInfoInputs.cache
+C:\Users\madel\Desktop\School\Jaar 3\composite\CompositeProject\CompositeProject\obj\Debug\net8.0\CompositeProject.AssemblyInfo.cs
+C:\Users\madel\Desktop\School\Jaar 3\composite\CompositeProject\CompositeProject\obj\Debug\net8.0\CompositeProject.csproj.CoreCompileInputs.cache
+C:\Users\madel\Desktop\School\Jaar 3\composite\CompositeProject\CompositeProject\obj\Debug\net8.0\CompositeProject.dll
+C:\Users\madel\Desktop\School\Jaar 3\composite\CompositeProject\CompositeProject\obj\Debug\net8.0\refint\CompositeProject.dll
+C:\Users\madel\Desktop\School\Jaar 3\composite\CompositeProject\CompositeProject\obj\Debug\net8.0\CompositeProject.pdb
+C:\Users\madel\Desktop\School\Jaar 3\composite\CompositeProject\CompositeProject\obj\Debug\net8.0\CompositeProject.genruntimeconfig.cache
+C:\Users\madel\Desktop\School\Jaar 3\composite\CompositeProject\CompositeProject\obj\Debug\net8.0\ref\CompositeProject.dll
